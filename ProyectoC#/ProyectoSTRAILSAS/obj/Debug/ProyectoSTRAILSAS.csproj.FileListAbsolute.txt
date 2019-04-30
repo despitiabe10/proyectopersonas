@@ -1,0 +1,12 @@
+c:\users\davidespitia\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\ProyectoSTRAILSAS.exe.config
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\ProyectoSTRAILSAS.exe
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\ProyectoSTRAILSAS.pdb
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.csprojResolveAssemblyReference.cache
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.Form1.resources
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.Properties.Resources.resources
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.csproj.GenerateResource.Cache
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.exe
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\obj\Debug\ProyectoSTRAILSAS.pdb
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\MySql.Data.dll
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\Google.Protobuf.dll
+C:\Users\DAVIDESPITIA\documents\visual studio 2015\Projects\ProyectoSTRAILSAS\ProyectoSTRAILSAS\bin\Debug\MySql.Data.xml
